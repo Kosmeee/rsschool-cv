@@ -1,0 +1,35 @@
+body {
+  font-size: 16px;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #eaecef;
+  
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  color: #eaecef;
+  border-bottom: 1px solid #eaecef;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #eaecef;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-left: 2px solid #eaecef;
+
+}
+
+li {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #eaecef;
+}
